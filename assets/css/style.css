@@ -86,8 +86,8 @@ h6 {
 #header .profile img {
   margin: 15px auto;
   display: block;
-  width: 200px;
-  height:220px;
+  width: 175px;
+  height:190px;
   border: 8px solid #2c2f3f;
 }
 
@@ -1136,6 +1136,7 @@ section {
 
 .mySlides img {
 	height: 500px;
+ 
 }
 
 /* Next & previous buttons */
@@ -1216,7 +1217,7 @@ section {
 /* Fading animation */
 .fade {
 	animation-name: fade;
-	animation-duration: 1.0s;
+	animation-duration:4s;
 }
 
 @keyframes fade {
